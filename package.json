@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "astro": "^3.0.7",
-    "astro-i18n-aut": "^0.3.4"
+    "astro-i18n-aut": "github:seanpue/astro-i18n-aut"
   }
 }
